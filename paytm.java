@@ -8,8 +8,6 @@ v
 xcv
 cxz
 
-vΩ√
-
-ç√
+new change
 
 Added some code to fix paytm
